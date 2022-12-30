@@ -3,7 +3,7 @@ title: RankGen: Improving Text Generation with Large Ranking Models
 authors: Kalpesh Krishna, Yapei Chang, John Wieting, Mohit Iyyer
 year: 2022
 tags:
-  - Language_Models
+  - LanguageModels
   - EBM
 ---
 
